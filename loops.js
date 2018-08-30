@@ -25,3 +25,8 @@ function forLoop(array){
     }
   return array;
   }
+
+function whileLoop(n){
+  var n = 100
+  while (n >100) {n -- 1}
+}
