@@ -32,6 +32,6 @@ function whileLoop(n){
 }
 
 function doWhileLoop(array){
-  do {incrementValue()}
+  do {incrementValue()
   while (incrementVariable() > 0)
 }
