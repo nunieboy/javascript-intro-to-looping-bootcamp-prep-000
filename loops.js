@@ -32,5 +32,5 @@ function whileLoop(n){
 }
 
 function doWhileLoop(array){
-  do{} while(i > 0)
+  do{} while(array.length > 0)
 }
