@@ -27,6 +27,6 @@ function forLoop(array){
   }
 
 function whileLoop(n){
-  n = 100
-  while (n >100) {n -- 1}
+  n = 100;
+  while (n >100) {n --};
 }
