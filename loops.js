@@ -32,6 +32,6 @@ function whileLoop(n){
 }
 
 function doWhileLoop(array){
-  do{array.pop()} while(array.length > 0)
+  do{array.pop()} while(array > 0)
   return array
 }
