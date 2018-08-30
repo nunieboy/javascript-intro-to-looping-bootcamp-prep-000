@@ -32,7 +32,7 @@ function whileLoop(n){
 }
 
 function doWhileLoop(array){
-  do {incrementValue()
+  do {incrementValue()}
   while (function incrementVariable() {
   i = i + 1;
 })
