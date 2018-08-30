@@ -31,4 +31,6 @@ function whileLoop(n){
   return "done"
 }
 
-function doWhileLoop(array){}
+function doWhileLoop(array){
+  do{} while(i > 0)
+}
